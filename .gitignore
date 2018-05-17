@@ -3,3 +3,4 @@ Puppetfile.lock
 /spec/fixtures
 .yardoc
 .librarian
+/pkg
