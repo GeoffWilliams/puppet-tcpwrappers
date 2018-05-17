@@ -11,7 +11,7 @@
 
 ## Description
 
-tcpwrappers on linux using augeas
+tcpwrappers on linux using geoffwilliams-filemagic and file_line from stdlibs
 
 ## Usage
 See reference and examples
